@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865449350428",
+    "project_id": "pathika-59c79",
+    "storage_bucket": "pathika-59c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865449350428:android:6cd14ecc02b82dd199d6d9",
+        "android_client_info": {
+          "package_name": "com.example.pathika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmrVtmc4nX6dm2An6_Hv-KApxh9AXMHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
